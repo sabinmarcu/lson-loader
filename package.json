@@ -1,0 +1,8 @@
+{
+  "name": "lson-loader",
+  "author": "Sabin Marcu <sabinmarcu@gmail.com>",
+  "version": "0.0.1",
+  "dependencies": {
+    "lson": "^1.0.3"
+  }
+}
